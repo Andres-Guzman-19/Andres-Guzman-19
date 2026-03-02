@@ -8,7 +8,6 @@ Soy estudiante de Ingeniería Industrial apasionado por el análisis de datos �
 
 * 🌍  Estoy en Colombia
 * ✉️  Puedes contactarme en [andresfgg1904@gmail.com](mailto:andresfgg1904@gmail.com)
-* 🧠  Estoy aprendiedo R Studio R studio
 
 
 ### Skills
