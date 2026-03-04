@@ -23,7 +23,8 @@ Soy estudiante de Ingeniería Industrial apasionado por el análisis de datos �
 
 | Repositorio | Descripción |
 |------------------------|-------------|
-| [**Pipeline de Datos en SQL**](https://github.com/Andres-Guzman-19/BeeterStore)  | Pipeline de datos completamente en SQL con una arquitectura por capas|
+| [**Proyecto de DataWharehouse con sqlserver**](https://github.com/Andres-Guzman-19/data-warehouse-sql) | Proyecto de creacion de un DataWarehouse con SQL server y arquitectura medallion|
+| [**Pipeline de Datos en SQL**](https://github.com/Andres-Guzman-19/BeeterStore)  | Pipeline de datos completamente en SQL con una arquitectura medallion|
 | [**Prediccion de la liga**](https://github.com/Andres-Guzman-19/Prediccion_la_liga)  | Modelo de prediccion de resultados de futbol empleando Monte Carlo y Machine Learning |
 | [**Prediccion de carrera**](https://github.com/Andres-Guzman-19/Prediccion-Carrera)  | Modelo de predicion de la carrera ciencia de la computación con datos de Kaggle |
 | [**Dash Inclusion financiera**](https://github.com/Andres-Guzman-19/inclusion_financiera) | Visualización de la base de datos inclusion financiera de la pagina www.datos.gov.co |
